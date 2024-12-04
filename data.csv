@@ -1,0 +1,31 @@
+User,Length Credit History (yrs),Current Income (Thousands),Purchase History,Good Credit Customer
+1,10,55,"book,tea,blanket",1
+2,15,65,"tv,remote,blanket",1
+3,2,35,"book,tv",0
+4,3,22,"tv,coffee",0
+5,20,100,"book,tea,blanket",1
+6,0.5,20,"tv,remote",0
+7,11,75,"tv,tea,blanket",1
+8,8,65,"pen,paper,printer",1
+9,0.1,15,"pen,paper,pencil",0
+10,19,75,"book,tea,pen ",1
+11,4,40,"tv,remote",0
+12,13,60,"pen,phone,pencil",1
+13,1,35,"book,tea,pen",0
+14,2,30,"tv,remote",0
+15,7.5,55,"pen,pencil,folder",1
+16,8,65,"folder,printer,paper",1
+17,11,55,"book,tea,blanket",1
+18,23,75,"tv,remote",1
+19,4,55,"printer,paper,tv",1
+20,0.9,25,"tv,tea,pen",0
+21,1,30,"pen,paper,printer",0
+22,5,55,"coffee,paper,printer",1
+23,4.6,50,"remote,paper,coffee",1
+24,7,60,"book,tea,blanket ",1
+25,1,35,"tv,remote,blanket",0
+26,2.1,65,"tea,coffee,printer",0
+27,5,55,"book,coffee,blanket",1
+28,10,80,"tv,chair",1
+29,20,35,"tv,coffee, printer",0
+30,30,55,"book,coffee, blanket",1
